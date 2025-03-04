@@ -1,15 +1,14 @@
 # This is a [Next.js](https://nextjs.org) project Template with [`Mantine`](https://mantine.dev/).
 
 ## This NextJS template includes/uses the following:
-
-> Mantine library
-> Custom Mantine's AppShell
-> Bun (as a package manger)
-> App Router
-> Tailwind Css
-> TypeScript
-> Custom Alias
-> Eslint
+* Mantine library
+* Custom Mantine's AppShell
+* Bun (as a package manger)
+* App Router
+* Tailwind Css
+* TypeScript
+* Custom Alias
+* Eslint
 
 ## Getting Started with the Template
 
@@ -34,10 +33,10 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+###
+To learn more about Mantine component library, you can checkout the following offical documentaions:
 
-To learn more about Mantine.dev, you can checkout the following offical documentaions:
-
-- [Mantine Documentation](https://mantine.dev/) - learn about Next.js features and API.
+- [Mantine Documentation](https://mantine.dev/) - learn more about mantine component features
 
 ## Deploy on Vercel
 
