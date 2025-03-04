@@ -11,8 +11,12 @@
 * Eslint
 
 ## Getting Started with the Template
+Firsy, install the dependencies:
+```bash
+bun install
+```
 
-First, run the development server:
+Second, run the development server:
 
 ```bash
 bun dev
