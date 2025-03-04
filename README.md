@@ -9,6 +9,7 @@
 * TypeScript
 * Custom Alias
 * Eslint
+* Turbopack
 
 ## Getting Started with the Template
 Firsy, install the dependencies:
