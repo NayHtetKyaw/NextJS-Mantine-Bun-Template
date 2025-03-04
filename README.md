@@ -1,7 +1,7 @@
 # This is a [Next.js](https://nextjs.org) project Template with [`Mantine`](https://mantine.dev/).
 
 ## This NextJS template includes/uses the following:
-* Mantine library
+* Mantine library (mantine/core | mantine/hooks | mantine-Notification)
 * Custom Mantine's AppShell
 * Bun (as a package manger)
 * App Router
